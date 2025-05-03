@@ -1,7 +1,8 @@
 # SuperPac 🎮👾
  
 ## Description 📝
-SuperPac est une version modernisée du célèbre jeu Pacman, où tu peux collecter des **super gommes** offrant des pouvoirs spéciaux tels que : 
+SuperPac est une version modernisée du célèbre jeu Pacman architecturée selon les design patterns **MVC** (Modèle-Vue-Contrôleur) et **State**.
+Le joueur collecte des **super gommes** offrant des pouvoirs spéciaux tels que :
 - Devenir **invisible** 👻
 - Changer de **map** 🔄
 - Devenir un **super Pacman** qui peut manger les **fantômes** 👹
