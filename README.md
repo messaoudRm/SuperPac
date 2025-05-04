@@ -1,4 +1,6 @@
 # SuperPac 🎮👾
+
+https://github.com/user-attachments/assets/4392d0fc-291f-471c-b05a-6fe565b67a11
  
 ## Description 📝
 SuperPac est une version modernisée du célèbre jeu Pacman architecturée selon les design patterns **MVC** (Modèle-Vue-Contrôleur) et **State**.
