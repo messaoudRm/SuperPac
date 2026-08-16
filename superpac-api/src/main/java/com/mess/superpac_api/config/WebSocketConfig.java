@@ -24,5 +24,6 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
     public void registerStompEndpoints(StompEndpointRegistry registry) {
         registry.addEndpoint("/game-ws")
                 .setAllowedOriginPatterns(allowedOrigins.split(","));
+    }
 
 }
